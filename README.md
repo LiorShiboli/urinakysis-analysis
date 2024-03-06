@@ -25,37 +25,22 @@ LSTM Example 2
 
 ```bash
 conda env create -f environment.yml
-conda activate urinakysis-analysis
-poetry install
+conda activate walmart-sales-prediction
+poetry install --no-root
 ```
 
 # Get Started
 
-Activate the conda envrioment using the IDE or in the terminal before running the next commands in this README:
+Opening the Jupter Lab:
 
 ```bash
-conda activate urinakysis-analysis
-```
-
-For running the code
-
-```bash
-python -m src
-```
-
-Or for opening jupyter
-
-```bash
+conda activate walmart-sales-prediction
 jupyter-lab
 ```
 
-Or just for opening python
-
-```bash
-python
-```
-
 ## CI (Formaters and Linters)
+
+* note: the CI is not used because we dont have .py files in the project.
 
 For running the Formaters for clean the code. Run in the terminal:
 
