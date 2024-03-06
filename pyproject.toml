@@ -1,10 +1,9 @@
 [tool.poetry]
-name = "urinakysis-analysis"
+name = "walmart-sales-prediction"
 version = "0.1.0"
-description = "urinakysis-analysis"
-authors = ["Omer Priel <omer.priel2@gmail.com>"]
+description = "walmart-sales-prediction"
+authors = ["Lior Shiboli <Lior12sh@gmail.com>", "Omer Priel <omer.priel2@gmail.com>"]
 license = "MIT"
-packages = [{include = "src"}]
 
 [tool.poetry.dependencies]
 python = ">=3.10,<3.11"

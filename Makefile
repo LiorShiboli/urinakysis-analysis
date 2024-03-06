@@ -35,6 +35,3 @@ fix-lint: fix lint
 # Run the tests
 jupyter: clean
 	jupyter-lab
-
-run: clean
-	python -m src.main

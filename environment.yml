@@ -1,4 +1,4 @@
-name: urinakysis-analysis
+name: walmart-sales-prediction
 channels:
   - defaults
   - conda-forge

@@ -1,16 +1,25 @@
 # walmart-analysis
 
-* PowerPoint: [walmart.pptx](https://msmailarielac-my.sharepoint.com/:p:/g/personal/omer_priel_msmail_ariel_ac_il/ER4OrICedwlBrfsNrbxT5XUBXfkmoarZvIQ_5jx4v6-dZA?e=lI6Sex)
+[Presentation (PowerPoint)](docs/presentation.pptx)
+
+[Presentation (PDF)](docs/presentation.pdf)
+
+LSTM Example 1
+
+![LSTM Example 1](docs/lstm-results-1.png)
+
+LSTM Example 2
+
+![LSTM Example 2](docs/lstm-results-2.png)
 
 # Requirements
 
-* conda (or anaconda) - for manage the python envrioment
-* make - for runing commands in simple way
+* conda (anaconda etc'...) - for manage the python envrioment
 
-# Info on tools that used in the project
+# Technologies
 
 * poetry - for managing the python packages. Only python, pip and poetry are installed by conda.
-* jupyter-lab - for runing jupyter in the browser
+* jupyter-lab - for runing jupyter notebooks in the browser
 
 # Install
 
@@ -81,3 +90,12 @@ make clean
 ```
 
 In practice, you dont need to run this command, it called by the other make commands.
+
+# License
+
+MIT License
+
+# Authors
+
+* Lior Shiboli
+* Omer Priel
