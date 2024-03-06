@@ -1,8 +1,12 @@
-# walmart-analysis
+# walmart-sales-prediction
 
 [Presentation (PowerPoint)](docs/presentation.pptx)
 
 [Presentation (PDF)](docs/presentation.pdf)
+
+Walmart
+
+![Walmart](docs/walmart.jpg)
 
 LSTM Example 1
 
