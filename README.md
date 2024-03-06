@@ -4,8 +4,6 @@
 
 [Presentation (PDF)](docs/presentation.pdf)
 
-Walmart
-
 ![Walmart](docs/walmart.jpg)
 
 LSTM Example 1
